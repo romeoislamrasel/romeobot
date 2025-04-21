@@ -1,1 +1,807 @@
-404: Not Found
+[
+  {
+  "itemID": 1,
+  "itemName": "goatbin.js",
+  "description": "Get commands short link.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/CZDiEJ",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 2,
+  "itemName": "help.js",
+  "description": "everyone commands for enjoy @ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/SYLa5a",
+  "authorName": "ArYan",
+  "timestamp": "2024-09-16"
+}, {
+  "itemID": 3,
+  "itemName": "info.js",
+  "description": "Get system, bot and owne informations..",
+  "pastebinLink": "https://paste.c-net.org/ProbeDecay",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 4,
+  "itemName": "notification.js",
+  "description": "This command allows to send message to all grouo chat where your bot is added.",
+  "pastebinLink": "https://paste.c-net.org/NieceReceiver",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 5,
+  "itemName": "prefix.js",
+  "description": "Check bot system.",
+  "pastebinLink": "https://paste.c-net.org/MineralOcean",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 6,
+  "itemName": "4k.js",
+  "description": "Upscale Your Images.@ArYan",
+  "pastebinLink": "https://pastebin.com/raw/LxRTKY1K",
+  "authorName": " Fahim_Noob",
+  "timestamp": "2024-09-15"
+}, {
+  "itemID": 7,
+  "itemName": "accept.js",
+  "description": "Accept users friends requests..",
+  "pastebinLink": "https://paste.c-net.org/TissuesTrumpet",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 8,
+  "itemName": "adduser.js",
+  "description": "Add user to your group chats.",
+  "pastebinLink": "https://paste.c-net.org/FigureConfine",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 9,
+  "itemName": "admin.js",
+  "description": "Admins management system.",
+  "pastebinLink": "https://paste.c-net.org/BailiffShambles",
+  "authorName": "NTKhang | Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 10,
+  "itemName": "balance.js",
+  "description": "Check your balance or transfer money.",
+  "pastebinLink": "https://paste.c-net.org/FragmentPrices",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 11,
+  "itemName": "ban.js",
+  "description": "Ban Users from box chat.",
+  "pastebinLink": "https://paste.c-net.org/WrittenDiddly",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 12,
+  "itemName": "bank.js",
+  "description": "The bank command provides various banking services including games.",
+  "pastebinLink": "https://paste.c-net.org/FiftyAllie",
+  "authorName": "LiANE | ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 13,
+  "itemName": "callad.js",
+  "description": "Send message to bot admins",
+  "pastebinLink": "https://paste.c-net.org/EnticingSeeming",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 14,
+  "itemName": "count.js",
+  "description": "View the number of messages of all members or yourself (since the bot joined the group).",
+  "pastebinLink": "https://paste.c-net.org/CleanedBullies",
+  "authorName": "NTKhang | Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 15,
+  "itemName": "daily.js",
+  "description": "Get daily random gifts.",
+  "pastebinLink": "https://paste.c-net.org/BrewsterPappy",
+  "authorName": "NTKhang | Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 16,
+  "itemName": "pinterest.js",
+  "description": "This command allows you to search for images on pinterest @ArYan.",
+  "pastebinLink": "https://pastebin.com/raw/89mqJmCA",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-15"
+}, {
+  "itemID": 17,
+  "itemName": "pexels.js",
+  "description": "his command allows you to search for images on pexels based on a given query and fetch a specified number of images.",
+  "pastebinLink": "https://paste.c-net.org/RuptureHugging",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 18,
+  "itemName": "delete.js",
+  "description": "Delete command files.",
+  "pastebinLink": "https://paste.c-net.org/PsychicLicence",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 19,
+  "itemName": "flip.js",
+  "description": "Flip a coins and bets on heads or tails.",
+  "pastebinLink": "https://paste.c-net.org/LiableJordan",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 20,
+  "itemName": "help.js",
+  "description": "This command allows you to see all available commands list ( dont change my credits ).",
+  "pastebinLink": "https://paste.c-net.org/ReunitedHabits",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 21,
+  "itemName": "imgbb.js",
+  "description": "Upload image to imgbb by replying to photo.",
+  "pastebinLink": "https://paste.c-net.org/PavementHershey",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 22,
+  "itemName": "kick.js",
+  "description": "Kick members from chat box with additional features.",
+  "pastebinLink": "https://paste.c-net.org/DecoderRespond",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 23,
+  "itemName": "leave.js",
+  "description": "Get off.",
+  "pastebinLink": "https://paste.c-net.org/InitialAncient",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 24,
+  "itemName": "pending.js",
+  "description": "Approve pending groups in spam list or unapproved groups.",
+  "pastebinLink": "https://paste.c-net.org/ComposedTaking",
+  "authorName": "NTKhang | Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 25,
+  "itemName": "richest.js",
+  "description": "Get top 10 users list ",
+  "pastebinLink": "https://paste.c-net.org/SubduralDarkness",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 26,
+  "itemName": "sing.js",
+  "description": "Download Songs using YTDL package.",
+  "pastebinLink": "https://paste.c-net.org/HankeyBashed",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 27,
+  "itemName": "thread.js",
+  "description": "Manage group chat in bot system",
+  "pastebinLink": "https://paste.c-net.org/FossilSwallows",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 28,
+  "itemName": "tid.js",
+  "description": "View threadID of your group chat",
+  "pastebinLink": "https://paste.c-net.org/TippySprayed",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 29,
+  "itemName": "translate.js",
+  "description": "Translate text to the desired language",
+  "pastebinLink": "https://paste.c-net.org/BirthDensity",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 30,
+  "itemName": "uid.js",
+  "description": "View facebook user id of user",
+  "pastebinLink": "https://paste.c-net.org/BellsProving",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 31,
+  "itemName": "uptime.js",
+  "description": "Get System Information",
+  "pastebinLink": "https://paste.c-net.org/LisztExisted",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 32,
+  "itemName": "slot.js",
+  "description": "Game slot with bonus rounds, multipliers, and interactive elements",
+  "pastebinLink": "https://paste.c-net.org/DownsSensed",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 33,
+  "itemName": "user.js",
+  "description": "User management system",
+  "pastebinLink": "https://paste.c-net.org/LlanfairFurious",
+  "authorName": "NTKhang | Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 34,
+  "itemName": "warn.js",
+  "description": "warn member in group, if they have 3 warns, they will be banned",
+  "pastebinLink": "https://paste.c-net.org/GesturesRusso",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 35,
+  "itemName": "onlyadminbox.js",
+  "description": "turn on/off only admin box can use bot",
+  "pastebinLink": "https://paste.c-net.org/YeastWinter",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 36,
+  "itemName": "onlyadmin.js",
+  "description": "turn on/off only admin can use bot",
+  "pastebinLink": "https://paste.c-net.org/MittensDonoghue",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 37,
+  "itemName": "adc.js",
+  "description": "adc command",
+  "pastebinLink": "https://paste.c-net.org/HopperGrubbing",
+  "authorName": "Loid Butter",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 38,
+  "itemName": "album.js",
+  "description": "Fetches a random video from a specified category",
+  "pastebinLink": "https://paste.c-net.org/DecidesHispanic",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 39,
+  "itemName": "tempmail.js",
+  "description": "Generate temporary email and check inbox.",
+  "pastebinLink": "https://paste.c-net.org/HenriCrystals",
+  "authorName": "UPoL | ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 40,
+  "itemName": "chatgpt.js",
+  "description": "This is a large AI language model trained by OpenAI, designed to assist with a wide range of tasks.",
+  "pastebinLink": "https://paste.c-net.org/MoralsEnjoyed",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 41,
+  "itemName": "sim.js",
+  "description": "Funchat with SimiSimi.",
+  "pastebinLink": "https://paste.c-net.org/PrisonsFremont",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 42,
+  "itemName": "sim.js",
+  "description": "Chat with SimiSimi ( Added onReply )",
+  "pastebinLink": "https://paste.c-net.org/PrisonsFremont",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 43,
+  "itemName": "wsanime.js",
+  "description": "Search Wallpapers .",
+  "pastebinLink": "https://paste.c-net.org/GeezerFarewell",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 44,
+  "itemName": "animex.js",
+  "description": "This command uses an external API to create anime-style images from user-provided prompts.",
+  "pastebinLink": "https://paste.c-net.org/TouchingFatigue",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 45,
+  "itemName": "ai.js",
+  "description": "This is a large Ai language model trained by OpenAi, it is designed to assist with a wide range of tasks ( non prefix ).",
+  "pastebinLink": "https://paste.c-net.org/CraftedJaguar",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 46,
+  "itemName": "emix.js",
+  "description": "Generate your images using Emix ( beta ).",
+  "pastebinLink": "https://paste.c-net.org/GradyPsychics",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 47,
+  "itemName": "uptime.js",
+  "description": "This command provides detailed information about the bot and system including uptime, OS details, CPU, memory, disk, network, and additional settings ( Advanced Version ).",
+  "pastebinLink": "https://paste.c-net.org/DoozyGunshot",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 48,
+  "itemName": "approve.js",
+  "description": "This command needed approval.js ( event code ) for work perfectly, without approval event code this command is useless so dont forget to add approval.js ( event code ) in your events folder.",
+  "pastebinLink": "https://paste.c-net.org/ExpertsOrders",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 49,
+  "itemName": "approval.js",
+  "description": "Event code for the approve command: Note this code needed approve.js command to approve groups, add this code in events folder. ( Event File )",
+  "pastebinLink": "Coming Soon....",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 50,
+  "itemName": "screenshot.js",
+  "description": "Takes a screenshot of a given URL.",
+  "pastebinLink": "https://paste.c-net.org/FluffSlapping",
+  "authorName": "UPoL",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 51,
+  "itemName": "ai.js",
+  "description": "AI that can speak every language on Earth fluently.",
+  "pastebinLink": "https://paste.c-net.org/NirvanaPadding",
+  "authorName": "Jun",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 52,
+  "itemName": "sd.js",
+  "description": "Generates images based on provided text using the Stablediffusion v1 API.",
+  "pastebinLink": "https://paste.c-net.org/AnthonyTowering",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 53,
+  "itemName": "removebg.js",
+  "description": "Removes the background from a given image URL or a replied image.",
+  "pastebinLink": "https://paste.c-net.org/AwhileAlleyway",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 54,
+  "itemName": "ai.js",
+  "description": "Ask questions to Ai ( Rose Beta language Ai).",
+  "pastebinLink": "https://paste.c-net.org/DelawareResort",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 55,
+  "itemName": "quiz.js",
+  "description": "Play quiz game and earn money.",
+  "pastebinLink": "https://paste.c-net.org/MoaningEagle",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+  }, {
+  "itemID": 56,
+  "itemName": "zone.js",
+  "description": "Get the current date and time for a specified location.",
+  "pastebinLink": "https://paste.c-net.org/HarvardStark",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 57,
+  "itemName": "font.js",
+  "description": "This command allows you to fetch fonts using a specified API and send the response back to the user.",
+  "pastebinLink": "https://paste.c-net.org/HitherHelpful",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 58,
+  "itemName": "emi.js",
+  "description": "Generate your images using EMI API.",
+  "pastebinLink": "https://paste.c-net.org/OverdueBeeping",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 59,
+  "itemName": "help.js",
+  "description": "View command usage and list all commands directly.",
+  "pastebinLink": "https://paste.c-net.org/MultiplySnapped",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 60,
+  "itemName": "cdp.js",
+  "description": "Fetch random coupledp images.",
+  "pastebinLink": "https://paste.c-net.org/TickedHirsch",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 61,
+  "itemName": "uptime.js",
+  "description": "Get your system Uptimer information based in image.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/2GtukZ",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 62,
+  "itemName": "approval.js",
+  "description": "Event code for the approve command: Note this code needed approve.js command to approve groups, add this code in events folder. ( Event File ). Note: don't try to steal my source code ( new command ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/4BtaLj",
+  "authorName": "ArYAN"
+}, {
+  "itemID": 63,
+  "itemName": "dice.js",
+  "description": "Roll a dice and try your luck against the bot to win money!",
+  "pastebinLink": "http://goatbin.vercel.app/raw/83HjAI",
+  "authorName": "ArYAN"
+}, {
+  "itemID": 64,
+  "itemName": "gamble.js",
+  "description": "Gamble your money for a chance to win big!",
+  "pastebinLink": "http://goatbin.vercel.app/raw/qoZRDL",
+  "authorName": "ArYAN"
+}, {
+  "itemID": 65,
+  "itemName": "approve.js",
+  "description": "This command needed approval.js ( event code ) for work perfectly, without approval event code this command is useless so dont forget to add approval.js ( event code ) in your events folder. New Command",
+  "pastebinLink": "http://goatbin.vercel.app/raw/cAKLaf",
+  "authorName": "ArYAN"
+}, {
+  "itemID": 66,
+  "itemName": "shoti.js",
+  "description": "Get random shoti videos.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/Jjs8f6",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 67,
+  "itemName": "ai.js",
+  "description": "Ask questions to Ai & added conversation chat & noj prefix cmd )",
+  "pastebinLink": "http://goatbin.vercel.app/raw/EA3ZCO",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 68,
+  "itemName": "nox.js",
+  "description": "Ask questions to powerful Nox Ai developed by Priyanshi Kaur ( conversation too + non prefix ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/Qd1C0w",
+  "authorName": "Priyanshi Kaur",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 69,
+  "itemName": "pinterest.js",
+  "description": "Search images using Pinterest API.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/DPlt6Q",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 70,
+  "itemName": "animex.js",
+  "description": "Generate images in Anime based style using official Animegen API ( Pro )",
+  "pastebinLink": "http://goatbin.vercel.app/raw/EYyZnh",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 71,
+  "itemName": "quiz.js",
+  "description": "Play quiz game and earn money ( New API ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/WjODCC",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 72,
+  "itemName": "pollinations.js",
+  "description": "Generate images using Pollination AI Model.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/p7J7r9",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 73,
+  "itemName": "ai.js",
+  "description": "Ask questions to an Ai model ( added unique fonts )",
+  "pastebinLink": "http://goatbin.vercel.app/raw/t4ZI9M",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 74,
+  "itemName": "emix.js",
+  "description": "Create anime based images using EMIX API",
+  "pastebinLink": "http://goatbin.vercel.app/raw/NgSeL2",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 75,
+  "itemName": "emi.js",
+  "description": "Generate images using official EMI API.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/tkT04r",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 76,
+  "itemName": "pin.js",
+  "description": "Search images using official Pinterest API.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/HK3S8I",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 77,
+  "itemName": "give.js",
+  "description": "Update users money data.",
+  "pastebinLink": "https://paste.c-net.org/ZatarcTricks",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 78,
+  "itemName": "accept.js",
+  "description": "Accept friend requests ( added welcome msgs when bot accept user friend request ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/zcPZUo",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 79,
+  "itemName": "supportgc.js",
+  "description": "Support Group cmd ( dont forget to add your own group tid ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/ozZc8w",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 80,
+  "itemName": "shop.js",
+  "description": "Your own Virtual Shop ( incomplete cmd )",
+  "pastebinLink": "http://goatbin.vercel.app/raw/NlCfPp",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 81,
+  "itemName": "richest.js",
+  "description": "Get top 10 rich users list based on user money of exp ( new updated command ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/cdBIiR",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 82,
+  "itemName": "bank.js",
+  "description": "The bank command provides various banking services including games ( New updated bank command ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/qF5oeG",
+  "authorName": "LiANE | ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 83,
+  "itemName": "bin.js",
+  "description": "Get cmds short links",
+  "pastebinLink": "http://goatbin.vercel.app/raw/asPgWJ",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 84,
+  "itemName": "font.js",
+  "description": "Convert text into styles words.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/gQGS95",
+  "authorName": "Orochi Team",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 85,
+  "itemName": "v2a.js",
+  "description": "Convert video into audio.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/1xVHmk",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 86,
+  "itemName": "whitelists.js",
+  "description": "Turn on/off ( add/ remove ) users from whitelist.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/NGUgao",
+  "authorName": "NTKhang",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 87,
+  "itemName": "whitelistthread.js",
+  "description": "Turn on/off ( add/ remove ) users from whitelistthread.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/PUMXFK",
+  "authorName": "Tanvir | Mesbah Bbe",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 88,
+  "itemName": "waifu.js",
+  "description": "Get random waifu pics based on provide query.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/Jz0shA",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 89,
+  "itemName": "waifu.js",
+  "description": "Get only waifu random pics.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/ka3bPg",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 90,
+  "itemName": "spamkick.js",
+  "description": "Turn ( on / off ) spamkick, when user spamming in your group bot will automatically kick that user who is spamming.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/tvqwZ1",
+  "authorName": "Dipto",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 91,
+  "itemName": "profile.js",
+  "description": "Get users profile avt ( picture ).",
+  "pastebinLink": "http://goatbin.vercel.app/raw/liLeym",
+  "authorName": "Samir OE",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 92,
+  "itemName": "shell.js",
+  "description": "Execute shell commands.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/Gq3WYY",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 93,
+  "itemName": "file.js",
+  "description": "Get commands code.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/GySlrf",
+  "authorName": "ArYAN",
+  "timestamp": "2024-09-14"
+}, {
+  "itemID": 94,
+  "itemName": "clear.js",
+  "description": "Unsend messages send by bot as user provide amount.",
+  "pastebinLink": "http://goatbin.vercel.app/raw/NDbLrz",
+  "authorName": "Itz Aryan",
+  "timestamp": "2024-09-14"
+},
+   {
+  "itemID": 95,
+  "itemName": "paste-c.js",
+  "description": "To use this command, type !pastec <filename> to upload a file or reply to a message with the code you want to upload.",
+  "pastebinLink": "https://paste.c-net.org/ExtendDepended",
+  "authorName": "Rômeo",
+ "timestamp": "2024-09-14" 
+   }, { 
+    "itemID": 96,
+    "itemName": "time.js",
+    "description": "time <country name>",
+    "pastebinLink": "https://paste.c-net.org/NewlywedChefs",
+    "authorName": "Rômeo",
+    "timestamp": "2024-09-14"
+   }, { 
+    "itemID": 97,
+    "itemName": "hastebin.js",
+    "description": "To use this command, type !hastebin <filename> to upload a file or reply to a message with the code you want to upload.",
+    "pastebinLink": "https://paste.c-net.org/MelindaPoached",
+    "authorName": "Rômeo",
+    "timestamp": "2024-09-14"
+  }, {
+  "itemID": 98,
+  "itemName": "imgur.js",
+  "description": "",
+  "pastebinLink": "https://paste.c-net.org/MotelArrows",
+  "authorName": "Rômeo",
+  "timestamp": "2024-09-15"
+   },
+   {
+  "itemID": 99,
+  "itemName": "inbox.js",
+  "description": "hello goatbot inbox no prefix file enjoy the cmmand @ArYan",
+  "pastebinLink": "https://pastebin.com/raw/baPwfNW3",
+  "authorName": "ArYan",
+  "timestamp": "2024-09-15"
+   },
+  {
+  "itemID": 100,
+  "itemName": "album.js",
+  "description": "Displays album options for selection.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/KyUav5",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-15"
+   },
+  {
+  "itemID": 101,
+  "itemName": "imagine.js",
+  "description": "enjoy imagine cmmand @ArYan",
+  "pastebinLink": "https://pastebin.com/raw/tCEz7m0g",
+  "authorName": "Upol🐔",
+  "timestamp": "2024-09-15"
+  },
+  {
+  "itemID": 102,
+  "itemName": "flux.js",
+  "description": "enjoy flux cmmand @ArYan",
+  "pastebinLink": "https://pastebin.com/raw/gwsL7PeH",
+  "authorName": "Upol🐔",
+  "timestamp": "2024-09-15"
+  },
+{
+  "itemID": 103,
+  "itemName": "getlink.js",
+  "description": "𝗚𝗲𝘁 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝘂𝗿𝗹 𝗳𝗿𝗼𝗺 𝘃𝗶𝗱𝗲𝗼, 𝗮𝘂𝗱𝗶𝗼 𝘀𝗲𝗻𝘁 𝗳𝗿𝗼𝗺 𝗴𝗿𝗼𝘂𝗽.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/o3I5ws",
+  "authorName": "ASIF",
+  "timestamp": "2024-09-16"
+},
+  {
+  "itemID": 104,
+  "itemName": "gemini.js",
+  "description": "gemini ai with multiple conversation.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/SE69Nf",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  },
+  
+  {
+  "itemID": 105,
+  "itemName": "gemini2.js",
+  "description": "gemini ai with multiple conversation.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/dBS2NK",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 106,
+  "itemName": "fbcover.js",
+  "description": "Facebook cover.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/uecGgc",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 107,
+  "itemName": "gcimg.js",
+  "description": "𝗚𝗲𝘁 𝗚𝗿𝗼𝘂𝗽 𝗜𝗺𝗮𝗴𝗲.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/RMnkZs",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 108,
+  "itemName": "code.js",
+  "description": "Convert code into link.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/GLPoa5",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 109,
+  "itemName": "lyrics",
+  "description": "lyrics cmmands enjoy.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/CrWzBT",
+  "authorName": "Narzul",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 110,
+  "itemName": "tiktokid.js",
+  "description": "your tiktokid user the command.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/PFxF1O",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 111,
+  "itemName": "autotime.js",
+  "description": "hello baby autotime now.@ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/hgJPZL",
+  "authorName": "ArYan",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 112,
+  "itemName": "bby.js",
+  "description": "enjoy bby cmmand @ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/k31s8M",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  },
+  {
+  "itemID": 113,
+  "itemName": "baby.js",
+  "description": "enjoy bby cmmand @ArYan",
+  "pastebinLink": "http://goatbin.vercel.app/raw/vC6hdS",
+  "authorName": "DipTo",
+  "timestamp": "2024-09-16"
+  }
+]
