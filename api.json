@@ -5,5 +5,5 @@
 "dl": "http://152.42.220.111:25744",
 "api2": "http://160.191.77.60:9583",
 "api": "http://45.86.155.150:6406",
-"ytb": "http://95.217.151.27:20932" 
+"ytb": "https://ytb-downloader-api.vercel.app" 
 }
