@@ -3,7 +3,7 @@
 "sing": "https://ytb-sing.onrender.com",
 "alldl": "http://67.220.85.157:6435",
 "dl": "http://152.42.220.111:25744",
-"api2": "http://160.191.77.60:9583",
-"api": "http://45.86.155.150:6406",
+"api": "http://67.220.85.146:6332",
+"api2": "http://45.86.155.150:6406",
 "ytb": "https://ytb-downloader-api.vercel.app" 
 }
